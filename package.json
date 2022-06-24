@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Mogyuchi/github-test#readme",
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "2.7.1"
   }
 }
