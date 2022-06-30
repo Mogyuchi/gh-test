@@ -1,2 +1,2 @@
 * text=auto eol=lf
-pnpm-lock.yaml filter=pnpm
+package.json filter=pnpm
